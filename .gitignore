@@ -1,0 +1,6 @@
+.idea
+.git
+/todo-server/node_modules
+/todo-server/.dockerignore
+/todo-server/Dockerfile
+/todo-server/README.md
